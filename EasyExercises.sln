@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursivePowerCalculator", "RecursivePowerCalculator\RecursivePowerCalculator.csproj", "{99ABD127-9BA6-48C4-AB6D-E12043AD3665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveStringSpaces", "RemoveStringSpaces\RemoveStringSpaces.csproj", "{8AA9B517-637A-4080-A919-968A42F94E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSonInputCalculatorWithTxtOutput", "JSonInputCalculatorWithTxtOutput\JSonInputCalculatorWithTxtOutput.csproj", "{B9611B9F-2F47-4F39-BCE0-E3C7C3A28C4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{99ABD127-9BA6-48C4-AB6D-E12043AD3665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99ABD127-9BA6-48C4-AB6D-E12043AD3665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99ABD127-9BA6-48C4-AB6D-E12043AD3665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA9B517-637A-4080-A919-968A42F94E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA9B517-637A-4080-A919-968A42F94E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA9B517-637A-4080-A919-968A42F94E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA9B517-637A-4080-A919-968A42F94E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9611B9F-2F47-4F39-BCE0-E3C7C3A28C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9611B9F-2F47-4F39-BCE0-E3C7C3A28C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9611B9F-2F47-4F39-BCE0-E3C7C3A28C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9611B9F-2F47-4F39-BCE0-E3C7C3A28C4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
